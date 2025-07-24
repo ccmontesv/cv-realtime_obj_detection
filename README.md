@@ -1,4 +1,4 @@
-# 🧠 YOLOv8 Streamlit App for Real-Time Object Detection, Segmentation & Pose Estimation
+# YOLOv8 Streamlit App for Real-Time Object Detection, Segmentation & Pose Estimation
 
 This project is a real-time computer vision web app built with **Streamlit** and **Ultralytics YOLOv8** models. It allows users to run **object detection**, **segmentation**, or **pose estimation** on live camera feeds through a simple web interface.
 
