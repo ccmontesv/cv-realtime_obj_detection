@@ -1,0 +1,9 @@
+# Ignore the test folder and all its contents
+test/
+test/**
+
+# Ignore all Jupyter notebooks
+*.ipynb
+
+# Ignore all CSV files
+*.csv
