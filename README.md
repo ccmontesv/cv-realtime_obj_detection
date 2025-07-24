@@ -16,7 +16,7 @@ This project is a real-time computer vision web app built with **Streamlit** and
 ## Project structure
 
 
-
+```text
 ├── app/                        # Main application logic
 │   ├── __init__.py             # Makes app a package
 │   ├── main.py                 # Streamlit entry point
